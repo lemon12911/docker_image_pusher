@@ -1,4 +1,4 @@
 # nginx
 # redis
-nacos
+# nacos
 mysql5.7
