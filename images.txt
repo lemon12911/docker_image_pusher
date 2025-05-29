@@ -1,5 +1,5 @@
 # nginx
 # redis
-nacos
+nacos/nacos-server:latest
 # mysql:8.0.39
 openjdk:8
