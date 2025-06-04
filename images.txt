@@ -1,6 +1,6 @@
 # nginx
 # redis
-nacos/nacos-server:2.0
+nacos/nacos-server:v2.0.4
 mysql:5.7
 # openjdk:8
 # centos:7
