@@ -1,5 +1,3 @@
 alpine
-ruoyi-gateway
-ruoyi-auth
-ruoyi-system
-ruoyi-resource
+hongzhouwei/ruoyi-gateway
+hongzhouwei/ruoyi-auth
